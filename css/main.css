@@ -365,7 +365,7 @@ input[type=button] {
   margin: 20px 0;
 }
 
-/* ----------   Mobile Styles - About Page  ---------- */
+/* ----------   About Page -  Mobile Styles    ---------- */
 
 .mission {
   display: flex;
@@ -403,7 +403,7 @@ input[type=button] {
 }
 
   
-/* ----------    Mobile Styles - FAQ Page  ----------*/
+/* ----------   FAQ Page -  Mobile Styles -   ----------*/
   
 .faq {
   background-color: #527158;
@@ -429,7 +429,10 @@ input[type=button] {
 
 .faq-content {
   margin-bottom: 50px;
-  
+}
+
+.faq-content h4 {
+  line-height: 1.33;
 }
 
 /* ==========================================================================
